@@ -1,11 +1,11 @@
 @font-face {
 font-family: "bebas";
-src :url("../fonts/BebasNeue.OTF")
+src :url("/fonts/BebasNeue.OTF")
 }
 
 @font-face {
   font-family: 'lemon';
-  src :url("../fonts/LemonMilk.otf");
+  src :url("/fonts/LemonMilk.otf");
 }
 
 body {
